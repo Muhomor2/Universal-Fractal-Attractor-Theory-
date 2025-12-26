@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+title: "LRD v6.3: Universal Fractal Attractor — A Unified Theory of Scale-Invariant Dynamics"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: "Chechelnitsky"
+    given-names: "Igor"
+    orcid: "https://orcid.org/0009-0007-4607-1946"
+    affiliation: "Independent Researcher, Ashkelon, Israel"
+abstract: "A unified theoretical framework demonstrating that fractal dimension D ≈ 1.3 and Hurst exponent H ≈ 0.65 constitute a Universal Fractal Attractor emerging across geological, neural, financial, cosmic, and physiological systems. Includes the Resonance Perception Theorem explaining pareidolia as brain-environment complexity matching."
+keywords:
+  - universal fractal attractor
+  - long-range dependence
+  - Hurst exponent
+  - self-organized criticality
+  - pareidolia
+  - neural dynamics
+  - predictive coding
+license: CC-BY-4.0
+version: "6.3"
+date-released: "2025-12-22"
+references:
+  - type: software
+    title: "LRD v6.0.1: Microstructural Universality"
+    authors:
+      - family-names: "Chechelnitsky"
+        given-names: "Igor"
+    doi: "10.5281/zenodo.18018292"
+  - type: software
+    title: "LRD v5: Monte Carlo Validation"
+    authors:
+      - family-names: "Chechelnitsky"
+        given-names: "Igor"
+    doi: "10.5281/zenodo.17800770"

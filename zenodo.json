@@ -1,0 +1,52 @@
+{
+  "title": "LRD v6.3: Universal Fractal Attractor — A Unified Theory of Scale-Invariant Dynamics from Neural Correlations to Cosmic Structure",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Chechelnitsky, Igor",
+      "orcid": "0009-0007-4607-1946",
+      "affiliation": "Independent Researcher, Ashkelon, Israel"
+    }
+  ],
+  "description": "<p><strong>Universal Fractal Attractor Theory</strong></p><p>We present evidence for a Universal Fractal Attractor (UFA) at fractal dimension D ≈ 1.3 (Hurst exponent H ≈ 0.65) emerging across vastly different systems:</p><ul><li>Geological formations and pareidolia perception</li><li>Neural long-range dependence (EEG/LFP)</li><li>Financial market microstructure (square-root law)</li><li>Cosmic microwave background fluctuations</li><li>Physiological time series (HRV, gait)</li></ul><p><strong>Key Contributions:</strong></p><ul><li>Resonance Perception Theorem: P_rec ∝ exp(-(D_ext - D*)²/2σ²)</li><li>Mathematical derivation of the Mandelbrot bridge D = 2 - H</li><li>Information-theoretic foundation for the attractor</li><li>Cross-domain empirical validation</li><li>Resonance Index calculator for practical applications</li></ul><p>This synthesis suggests that D ≈ 1.3 represents a fundamental optimization principle governing complex adaptive systems.</p>",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "universal fractal attractor",
+    "long-range dependence",
+    "Hurst exponent",
+    "fractal dimension",
+    "self-organized criticality",
+    "pareidolia",
+    "neural dynamics",
+    "predictive coding",
+    "market microstructure",
+    "cosmic structure",
+    "scale invariance",
+    "resonance perception",
+    "information theory",
+    "complex systems"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.18018292",
+      "relation": "continues",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "10.5281/zenodo.17800770",
+      "relation": "continues",
+      "resource_type": "software"
+    }
+  ],
+  "references": [
+    "Mandelbrot, B. (1982). The Fractal Geometry of Nature. Freeman.",
+    "Linkenkaer-Hansen, K. et al. (2001). Long-range temporal correlations and scaling behavior in human brain oscillations. J. Neurosci. 21(4): 1370-1377.",
+    "Sato, Y., Kanazawa, K. (2025). Strict universality of the square-root law in price impact. Phys. Rev. Lett. 135: 257401.",
+    "Bak, P., Tang, C., Wiesenfeld, K. (1987). Self-organized criticality. Phys. Rev. Lett. 59(4): 381.",
+    "Taylor, R.P. et al. (2017). Fractal analysis of visual stimuli. Nature Sci. Rep. 7: 42375.",
+    "Peng, C.K. et al. (1995). Quantification of scaling exponents. Chaos 5(1): 82-87."
+  ],
+  "language": "eng",
+  "version": "6.3"
+}
